@@ -1,0 +1,6 @@
+# Config file
+
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=user
+DB_PASSWORD=password
